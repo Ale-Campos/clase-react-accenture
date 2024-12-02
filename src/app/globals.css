@@ -40,3 +40,10 @@ a {
     color-scheme: dark;
   }
 }
+
+.menu-header {
+  display: flex;
+  padding: 1rem;
+  background: var(--foreground);
+  color: var(--background);
+}
